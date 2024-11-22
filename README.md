@@ -6,7 +6,7 @@
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
 
-<img src="https://jsdelivr.88api.top/gh/geeklinux-io/Picture//img/bfbcab66cadaa9a3cdcbeea5d3b3ac5.jpg" style="zoom: 33%;" />
+<img src="https://jsdelivr.88api.top/gh/geeklinux-io/Picture//img/bfbcab66cadaa9a3cdcbeea5d3b3ac5.jpg" style="zoom: 25%;" />
 
 
 
